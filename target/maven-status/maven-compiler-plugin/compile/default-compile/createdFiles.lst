@@ -1,0 +1,5 @@
+com/example/demoapi/services/ProductService.class
+com/example/demoapi/controllers/ProductController.class
+com/example/demoapi/repository/ProductRepository.class
+com/example/demoapi/KlabTestProjectBackendApplication.class
+com/example/demoapi/models/Product.class

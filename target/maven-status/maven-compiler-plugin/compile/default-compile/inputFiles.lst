@@ -1,0 +1,5 @@
+/home/gabriel/dev/klab-test-project/klab-test-project-backend/src/main/java/com/example/demoapi/KlabTestProjectBackendApplication.java
+/home/gabriel/dev/klab-test-project/klab-test-project-backend/src/main/java/com/example/demoapi/models/Product.java
+/home/gabriel/dev/klab-test-project/klab-test-project-backend/src/main/java/com/example/demoapi/services/ProductService.java
+/home/gabriel/dev/klab-test-project/klab-test-project-backend/src/main/java/com/example/demoapi/repository/ProductRepository.java
+/home/gabriel/dev/klab-test-project/klab-test-project-backend/src/main/java/com/example/demoapi/controllers/ProductController.java
